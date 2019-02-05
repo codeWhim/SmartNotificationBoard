@@ -1,0 +1,151 @@
+@font-face {
+    font-family: 'OswaldExtraLight'; /*a name to be used later*/
+    src: url('../fonts/Oswald/Oswald-ExtraLight.ttf'); /*URL to font*/
+    }
+
+      body{
+        background-size: cover;
+        font-family: OswaldExtraLight;
+        font-size:0.5px ;
+        margin: 0;
+        line-height: 24px;
+      }
+
+      .columnBox {
+        border: 2px solid black;
+      }
+
+
+.btn {
+  position: relative;
+  border: 3px solid black;
+  border-radius: 40px;
+  color: black;
+  padding: 12px 26px;
+  font-size: 22px;
+  font-family: OswaldExtraLight;
+  cursor: pointer;
+  float: vertical;
+  width: 240px;
+  margin: 8px;
+  text-align: center;
+  background-color: #ff6600;
+  border-color: #ff6600;
+  color:black;
+}
+
+.scholarship {
+  background-color: #ff6600;
+  border-color: #ff6600;
+  color: white;
+}
+
+
+.timetable {
+  background-color: #ff9900;
+  border-color: #ff9900;
+  color: white;
+}
+
+
+.examsschedule {
+  background-color: #009973;
+  border-color: #009973;
+  color: white;
+}
+
+
+.examresults {
+ background-color: #00b359;
+  border-color: #00b359;
+  color: white;
+}
+
+
+.internship {
+ background-color: #6666ff;
+  border-color: #6666ff;
+  color: white;
+}
+
+
+.jobs {
+ background-color: #6666ff;
+  border-color: #6666ff;
+  color: white;
+}
+
+.subbutton
+{
+
+   position: absolute;
+   border-radius: 0;
+  margin-left:-150px;
+    padding:0.1px 8px;
+    font-size: 13px;
+    background-color: black;
+    color: white;
+    font-family: OswaldExtraLight;
+    padding:0.1px 4px
+}
+.first{
+  background-color: black;
+  border-color: white;
+  color: white;
+  margin-left:-20px;
+}
+
+.first:hover {
+ background: white;
+  color: black;
+
+}
+.second{
+  background-color: black;
+  border-color: white;
+  color: white;
+  margin-left:25px;
+}
+
+.second:hover {
+ background: white;
+  color: black;
+
+}
+.third{
+  background-color: black;
+  border-color: white;
+  color: white;
+  margin-left:87px;
+}
+
+.third:hover {
+ background: white;
+  color: black;
+
+}
+.fourth{
+  background-color: black;
+  border-color: white;
+  color: white;
+  margin-left:138px;
+}
+
+.fourth:hover {
+ background: white;
+  color: black;
+
+}
+  .heading{
+    background: black;
+    color: white;
+    font-size: 28px;
+    font-family: OswaldExtraLight;
+    text-align: center;
+    border-radius:0px;
+    padding: 2px 8px;
+  }
+
+.active{
+        background-color: #B0C4DE;
+      }

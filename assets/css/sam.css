@@ -1,0 +1,74 @@
+body {
+	background: url('../img/bg-blue.png') center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.tile-box {
+	margin: 12px;
+	padding: 52px 3%;
+	color: #fff;
+	text-align: center;
+}
+#tile1 {
+	background: #9c88ff;
+}
+#tile2 {
+	background: #009432;
+}
+#tile3 {
+	background: #EA2027;
+}
+#tile4 {
+	background: #0652DD;
+}
+#tile5 {
+	background: #1289A7;
+}
+#tile6 {
+	background: #EE5A24;
+}
+#tile7 {
+	background: #6F1E51;
+}
+#tile8 {
+	background: #A3CB38;
+}
+#tile9 {
+	background: #353b48;
+}
+#tile10 {
+	background: #12CBC4;
+}
+#tile11 {
+	background: #c23616;
+}
+#tile12 {
+	background: #F79F1F;
+}
+.tile-icon {
+	display: block;
+	font-size: 64px;
+	margin: 8px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

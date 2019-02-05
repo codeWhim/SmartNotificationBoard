@@ -1,0 +1,1 @@
+<span style="font-size: 32px"><b>Instrumentation Center</b> has just launched this smart board. </span>
